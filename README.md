@@ -14,7 +14,7 @@ Assim que o sistema inicia, o usuário já está em um ambiente pronto para prog
  Boot rápido com mínimo de serviços
  Sistema focado em terminal (CLI-first)
  Git pronto e configurado automaticamente
- Python, Node.js, C/C++, Java, Golang, Rustc, Cargo, Php, e Ruby disponíveis de fábrica
+ Python, Node.js, C/C++, Java, Golang, Rustc, Cargo, Php, Ruby e Assembly(NASM) disponíveis de fábrica
  Stack de desenvolvimento leve e modular
  Interface gráfica mínima ou opcional
  Pasta /workspace pronta para projetos
